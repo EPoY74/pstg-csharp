@@ -1,0 +1,15 @@
+C:\repos-win\source\pstg-csharp\src\Pstg.Application\bin\Debug\net10.0\Pstg.Application.deps.json
+C:\repos-win\source\pstg-csharp\src\Pstg.Application\bin\Debug\net10.0\Pstg.Application.dll
+C:\repos-win\source\pstg-csharp\src\Pstg.Application\bin\Debug\net10.0\Pstg.Application.pdb
+C:\repos-win\source\pstg-csharp\src\Pstg.Application\bin\Debug\net10.0\Pstg.Domain.dll
+C:\repos-win\source\pstg-csharp\src\Pstg.Application\bin\Debug\net10.0\Pstg.Domain.pdb
+C:\repos-win\source\pstg-csharp\src\Pstg.Application\obj\Debug\net10.0\Pstg.Application.csproj.AssemblyReference.cache
+C:\repos-win\source\pstg-csharp\src\Pstg.Application\obj\Debug\net10.0\Pstg.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos-win\source\pstg-csharp\src\Pstg.Application\obj\Debug\net10.0\Pstg.Application.AssemblyInfoInputs.cache
+C:\repos-win\source\pstg-csharp\src\Pstg.Application\obj\Debug\net10.0\Pstg.Application.AssemblyInfo.cs
+C:\repos-win\source\pstg-csharp\src\Pstg.Application\obj\Debug\net10.0\Pstg.Application.csproj.CoreCompileInputs.cache
+C:\repos-win\source\pstg-csharp\src\Pstg.Application\obj\Debug\net10.0\Pstg.App.6CD5B7AB.Up2Date
+C:\repos-win\source\pstg-csharp\src\Pstg.Application\obj\Debug\net10.0\Pstg.Application.dll
+C:\repos-win\source\pstg-csharp\src\Pstg.Application\obj\Debug\net10.0\refint\Pstg.Application.dll
+C:\repos-win\source\pstg-csharp\src\Pstg.Application\obj\Debug\net10.0\Pstg.Application.pdb
+C:\repos-win\source\pstg-csharp\src\Pstg.Application\obj\Debug\net10.0\ref\Pstg.Application.dll

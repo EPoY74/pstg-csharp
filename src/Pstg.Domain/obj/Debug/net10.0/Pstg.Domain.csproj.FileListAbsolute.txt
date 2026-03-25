@@ -1,0 +1,11 @@
+C:\repos-win\source\pstg-csharp\src\Pstg.Domain\bin\Debug\net10.0\Pstg.Domain.deps.json
+C:\repos-win\source\pstg-csharp\src\Pstg.Domain\bin\Debug\net10.0\Pstg.Domain.dll
+C:\repos-win\source\pstg-csharp\src\Pstg.Domain\bin\Debug\net10.0\Pstg.Domain.pdb
+C:\repos-win\source\pstg-csharp\src\Pstg.Domain\obj\Debug\net10.0\Pstg.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos-win\source\pstg-csharp\src\Pstg.Domain\obj\Debug\net10.0\Pstg.Domain.AssemblyInfoInputs.cache
+C:\repos-win\source\pstg-csharp\src\Pstg.Domain\obj\Debug\net10.0\Pstg.Domain.AssemblyInfo.cs
+C:\repos-win\source\pstg-csharp\src\Pstg.Domain\obj\Debug\net10.0\Pstg.Domain.csproj.CoreCompileInputs.cache
+C:\repos-win\source\pstg-csharp\src\Pstg.Domain\obj\Debug\net10.0\Pstg.Domain.dll
+C:\repos-win\source\pstg-csharp\src\Pstg.Domain\obj\Debug\net10.0\refint\Pstg.Domain.dll
+C:\repos-win\source\pstg-csharp\src\Pstg.Domain\obj\Debug\net10.0\Pstg.Domain.pdb
+C:\repos-win\source\pstg-csharp\src\Pstg.Domain\obj\Debug\net10.0\ref\Pstg.Domain.dll

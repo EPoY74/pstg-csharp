@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Pstg.Api/Pstg.Api.csproj" />
+    <Project Path="src/Pstg.Application/Pstg.Application.csproj" />
+    <Project Path="src/Pstg.Domain/Pstg.Domain.csproj" />
+    <Project Path="src/Pstg.Infrastructure/Pstg.Infrastructure.csproj" />
+    <Project Path="src/Pstg.Worker/Pstg.Worker.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Pstg.Application.Tests/Pstg.Application.Tests.csproj" />
+    <Project Path="tests/Pstg.Domain.Tests/Pstg.Domain.Tests.csproj" />
+    <Project Path="tests/Pstg.IntegrationTests/Pstg.IntegrationTests.csproj" />
+  </Folder>
+</Solution>
