@@ -1,0 +1,21 @@
+NOTICE
+
+Project: PSTG — Pump Station Telemetry Gateway
+
+Original project author and maintainer:
+- Евгений Петров / Evgenii Petrov
+- Email: p174@mail.ru
+- Email: epoy74@gmail.com
+- GitHub: EPoY74
+
+Requested attribution practice:
+- When reusing code, preserve copyright and license notices.
+- When reusing documentation, diagrams, register maps, examples, screenshots, configuration guidance, or other non-code materials, provide visible attribution to Евгений Петров / Evgenii Petrov.
+- When distributing modified materials, clearly indicate that changes were made.
+
+Recommended attribution example:
+- "Based on PSTG (Pump Station Telemetry Gateway) by Евгений Петров / Evgenii Petrov. Modified for this use."
+
+Additional industrial disclaimer:
+- This repository is intended for learning, prototyping, portfolio demonstration, and engineering experimentation.
+- It is not a certified safety-critical control system.
